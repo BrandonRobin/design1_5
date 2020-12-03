@@ -1,0 +1,46 @@
+h1 {
+	text-align: center;
+	font-size: 100px;
+	font-family: Garamond;
+	color: #D52A42;
+	border: 3px solid #D52A42;
+	padding: 30px;
+	line-height:;
+	text-transform:;
+}
+p {
+	font-size: 16px;
+	font-family: Garamond;
+	Color: #D52A42;
+	border: 3px solid #D52A42;
+	padding: 30px;
+	margin: 50px;
+}
+body {
+	background: #000101;
+}
+ul {
+	font-size: 16px;
+	font-family: Garamond;
+	text-align: center;
+	border: 3px solid #D52A42;
+	padding: 20px;
+	color: #D52A42;
+}
+div {
+	font-family: Garamond;
+	text-align: center-left;
+	color: White;
+	margin-right: auto;
+	margin-left: 10%;
+}
+img {
+	max-width: 400px;
+	height: auto;
+	margin-right: auto;
+	margin-left: 10%;
+	border: 2px black;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	filter: grayscale(100%);
+}
